@@ -30,10 +30,6 @@ For each variable, the plot displays
 Variables are sorted by type and the total number of variables
 and cases are printed in the caption.
 }
-\examples{
-df_info <- contents(happiness)
-plot(df_info)
-}
 \seealso{
 See \link{contents}.
 }

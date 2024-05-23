@@ -3,7 +3,6 @@
 #' edatools provides tools for exploring the variables in
 #' a data frame.
 #'
-#' @docType package
-#' @name edatools-package
+#' @name testRpak
 #' @aliases edatools
 NULL

@@ -28,8 +28,3 @@ For each variable in a data frame, \code{contents} describes
 the position, type, number of unique values, number of missing
 values, and percent of missing values.
 }
-\examples{
-df_info <- contents(happiness)
-df_info
-plot(df_info)
-}

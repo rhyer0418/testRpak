@@ -20,10 +20,7 @@
 #'
 #' @export
 #'
-#' @examples
-#' df_info <- contents(happiness)
-#' df_info
-#' plot(df_info)
+
 
 
 

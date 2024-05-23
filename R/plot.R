@@ -22,9 +22,7 @@
 #' @export
 #' @return a \code{ggplot2} graph
 #' @seealso See \link{contents}.
-#' @examples
-#' df_info <- contents(happiness)
-#' plot(df_info)
+
 
 plot.contents <- function(x, ...){
   if (!inherits(x, "contents"))
